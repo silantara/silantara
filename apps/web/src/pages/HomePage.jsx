@@ -75,7 +75,7 @@ const featureHighlights = [
 ];
 
 // Galeri Foto
-const buktiPhotos = Array.from({ length: 10 }, (_, i) => ({
+const buktiPhotos = Array.from({ length: 14 }, (_, i) => ({
   url: `/galeri/silantara-jasa-pendirian-pt-${i + 1}.png`
 }));
 
